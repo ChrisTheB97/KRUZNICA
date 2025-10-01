@@ -1,6 +1,4 @@
 streamlit
-numpy
 matplotlib
-pandas
-reportlab
-Pillow
+numpy
+fpdf2
